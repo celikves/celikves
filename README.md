@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm celikves 👋
 
-<!--
-**celikves/celikves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills. Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning [specific technology or topic]
+- 👯 I’m looking to collaborate on [specific project or type of project]
+- 🤔 I’m looking for help with [specific issue or topic]
+- 💬 Ask me about [topics you're knowledgeable about]
+- 📫 How to reach me: [your email or social media]
+- 😄 Pronouns: [your pronouns]
+- ⚡ Fun fact: [a fun fact about you]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** [list of programming languages]
+- **Frameworks:** [list of frameworks]
+- **Tools:** [list of tools you use]
+
+## Stats
+![celikves's GitHub stats](https://github-readme-stats.vercel.app/api?username=celikves&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celikves&layout=compact&theme=radical)
+
+## Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=celikves&theme=radical)
+
+## Trophy Case
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=celikves&theme=radical)
+
+## Contact
+- [LinkedIn]
+- [Twitter]
+- [Email]
