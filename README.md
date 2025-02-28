@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** passionate about front
 - **Soft Skills:** Problem-Solving, Collaboration, Clean Code Practices  
 
 ## Education  
-🎓 **Computer Science and Engineering** @ **Akdeniz University** **  
+🎓 **Computer Science and Engineering** @ **Akdeniz University** 
 
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celikves&show_icons=true&theme=radical)  
